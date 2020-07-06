@@ -1,3 +1,3 @@
-# Study
+#Study
 
-Visual Studion Code에서 github을 사용.
+계속 공부하면서 git에 commit할 예정
